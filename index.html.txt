@@ -1,93 +1,189 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Professional Pest Control & Extermination Services in North York</title>
-<style>
-* {
-box-sizing: border-box;
-margin: 0;
-padding: 0;
-}
-body {
-font-family: Arial, Helvetica, sans-serif;
-background-color: #f4f7f6;
-color: #333333;
-line-height: 1.6;
-padding: 20px;
-}
-.container {
-max-width: 800px;
-margin: 40px auto;
-background-color: #ffffff;
-padding: 40px;
-border-radius: 8px;
-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-}
-h1 {
-color: #1a365d;
-font-size: 28px;
-margin-bottom: 20px;
-line-height: 1.3;
-}
-h2 {
-color: #2b6cb0;
-font-size: 20px;
-margin-top: 25px;
-margin-bottom: 15px;
-}
-p {
-margin-bottom: 18px;
-font-size: 16px;
-}
-ul {
-margin-bottom: 20px;
-padding-left: 20px;
-}
-li {
-margin-bottom: 8px;
-font-size: 16px;
-}
-a {
-color: #2b6cb0;
-text-decoration: underline;
-font-weight: bold;
-}
-a:hover {
-color: #1a365d;
-}
-.contact-info {
-background-color: #ebf8ff;
-border-left: 4px solid #3182ce;
-padding: 15px;
-margin-top: 25px;
-border-radius: 4px;
-}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Reliable Pest Management provides professional pest control, animal control, inspections, and extermination services across North York and the GTA.">
+  <title>Professional Pest Control Services in North York & GTA</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f3f6f8;
+      color: #263238;
+      line-height: 1.8;
+      padding: 30px 15px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      background: #ffffff;
+      padding: 45px;
+      border-radius: 14px;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    }
+
+    h1 {
+      color: #173f35;
+      font-size: 34px;
+      line-height: 1.25;
+      margin-bottom: 22px;
+    }
+
+    h2 {
+      color: #245c4b;
+      font-size: 24px;
+      margin-top: 32px;
+      margin-bottom: 14px;
+    }
+
+    p {
+      margin-bottom: 18px;
+      font-size: 16px;
+    }
+
+    ul {
+      margin: 10px 0 22px 25px;
+    }
+
+    li {
+      margin-bottom: 7px;
+    }
+
+    a {
+      color: #1769aa;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .intro {
+      font-size: 18px;
+      color: #455a64;
+    }
+
+    .contact-box {
+      margin-top: 30px;
+      padding: 22px;
+      background: #eef5f2;
+      border-left: 5px solid #245c4b;
+      border-radius: 8px;
+    }
+
+    .contact-box p {
+      margin-bottom: 8px;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 15px 10px;
+      }
+
+      .container {
+        padding: 25px 20px;
+      }
+
+      h1 {
+        font-size: 28px;
+      }
+
+      h2 {
+        font-size: 21px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
 </head>
+
 <body>
-<div class="container">
-<h1>Comprehensive Guide to Safe and Effective Pest Management Solutions</h1>
 
-<p>Maintaining a clean, safe, and pest-free property is essential for both residential homes and commercial establishments. Unwanted pests such as rodents, bed bugs, ants, and wasps not only cause structural damage but also pose significant health risks to families, employees, and customers. Implementing a proactive pest management strategy ensures long-term protection and peace of mind.</p>
+  <main class="container">
 
-<h2>Key Components of Modern Extermination Techniques</h2>
-<p>Effective pest eradication requires a combination of thorough inspections, strategic treatments, and preventative measures. Modern pest control strategies focus on humane and eco-friendly techniques designed to target specific pests without compromising the health of property occupants or local ecosystems.</p>
+    <h1>Professional Pest Control Services in North York and the GTA</h1>
 
-<ul>
-<li><strong>Detailed Property Inspections:</strong> Identifying entry points, nesting areas, and moisture sources that attract pests.</li>
-<li><strong>Targeted Treatments:</strong> Utilizing safe, eco-conscious methods for bed bugs, rodents, cockroaches, and stinging insects.</li>
-<li><strong>Humane Wildlife Control:</strong> Safely removing raccoons, squirrels, and pigeons while sealing entry paths.</li>
-<li><strong>Preventative Proofing:</strong> Implementing structural exclusion methods to prevent future re-infestation.</li>
-</ul>
+    <p class="intro">
+      Reliable pest management is an important part of protecting homes, commercial properties,
+      and surrounding environments from unwanted insects and animals. In North York and across
+      the Greater Toronto Area, property owners may encounter ants, rodents, termites, bed bugs,
+      cockroaches, wasps, spiders, fleas, ticks, and other common pests throughout the year.
+    </p>
 
-<h2>Choosing Reliable Pest Control Experts</h2>
-<p>When dealing with persistent infestations, relying on professional exterminators guarantees that treatments are applied correctly and safely. Experienced technicians understand local pest behavior and deliver tailored solutions suited to individual property requirements. For immediate assistance and 24/7 protection across North York and the Greater Toronto Area, trust <a href="https://reliablepestmanagement.ca/">Reliable Pest Management</a> to safeguard your home or business.</p>
+    <h2>Reliable Pest Management for Homes and Businesses</h2>
 
-<div class="contact-info">
-<p><strong>Need Fast Relief?</strong> Contact experienced specialists for safe, same-day inspection and extermination services tailored to your property.</p>
-</div>
-</div>
+    <p>
+      Reliable Pest Management provides professional pest control services designed to identify
+      pest problems and apply practical treatment solutions. The company serves residential and
+      commercial properties with 24/7 availability and same-day service options. Proper inspection
+      is an important first step because different pests require different treatment approaches.
+      Early identification can also help prevent an existing infestation from becoming a larger
+      and more expensive problem.
+    </p>
+
+    <p>
+      Services include insect extermination, rodent and mouse control, termite inspections,
+      bed bug extermination, cockroach treatment, ant removal, flea control, spider treatment,
+      and wasp or hornet nest removal. Property owners can also receive assistance with raccoon,
+      squirrel, and pigeon control when unwanted animals create problems around a property.
+    </p>
+
+    <h2>Comprehensive Pest and Animal Control Services</h2>
+
+    <p>
+      Common services offered by Reliable Pest Management include:
+    </p>
+
+    <ul>
+      <li>Ant, cockroach, spider, flea, and fly extermination</li>
+      <li>Termite inspection and termite extermination</li>
+      <li>Bed bug detection and treatment</li>
+      <li>Rodent, rat, and mouse control and removal</li>
+      <li>Wasp, hornet, and bee control</li>
+      <li>Raccoon and squirrel removal</li>
+      <li>Pigeon control and removal</li>
+      <li>Carpet beetle, tick, and other insect treatments</li>
+      <li>General residential and commercial pest inspections</li>
+    </ul>
+
+    <h2>Protect Your Property With Professional Pest Control</h2>
+
+    <p>
+      Choosing an experienced local pest management company can make it easier to respond quickly
+      when signs of an infestation appear. For property owners looking for professional pest
+      control assistance in North York and the GTA,
+      <a href="https://share.google/kRthKeYazPLNx2s4C"
+         target="_blank"
+         rel="noopener noreferrer">
+        Reliable Pest Management
+      </a>
+      provides a convenient option for inspections, extermination, and animal control services.
+      The team focuses on reliable service and practical solutions for residential and commercial
+      pest concerns.
+    </p>
+
+    <div class="contact-box">
+      <p><strong>Business:</strong> Reliable Pest Management</p>
+      <p><strong>Service Area:</strong> North York &amp; Greater Toronto Area</p>
+      <p><strong>Availability:</strong> 24/7</p>
+      <p><strong>Phone:</strong> (647) 707-4299</p>
+      <p><strong>Address:</strong> 1468 Victoria Park Ave #108, North York, ON M4A 2M2</p>
+      <p><strong>Email:</strong> adnanreliablepestmanagement@gmail.com</p>
+    </div>
+
+  </main>
+
 </body>
 </html>
